@@ -45,7 +45,7 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD NGUYEN2K10",
+            tag: "LOCKET GOLD ĐÃ KÍCH HOẠT",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "Đã Bơm Nốp 💛",
@@ -406,7 +406,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Nguyên Nốp 2K10🛞",
+                section: "🎨 Decorative by Lốp 2 Năm Của Tuyết🛞",
                 items: [
                     { overlay_id: "caption:NMS", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NMS", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
